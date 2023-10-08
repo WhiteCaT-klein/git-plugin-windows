@@ -61,7 +61,7 @@ You can configure some aspects of this extension by modifying the settings in yo
 
 ## Troubleshooting
 
-If you encounter any issues or have questions, please visit the [GitHub repository](https://github.com/WhiteCat-klein/GitPlugin) for this extension to submit an issue or seek assistance.
+If you encounter any issues or have questions, please visit the [GitHub repository](https://github.com/WhiteCaT-klein/git-plugin-windows) for this extension to submit an issue or seek assistance.
 
 ## License
 
